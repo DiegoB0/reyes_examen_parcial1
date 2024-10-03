@@ -37,10 +37,12 @@ function IndexHeader() {
             <img
               alt="..."
               className="n-logo"
-              src={require("assets/img/now-logo.png")}
+              src={require("assets/img/Elizalde Diego.jpeg")}
             ></img>
-            <h1 className="h1-seo">Now UI Kit.</h1>
-            <h3>A beautiful Bootstrap 4 UI kit. Yours free.</h3>
+            <h1 className="h1-seo">Universidad Tecnologica de Durango</h1>
+            <h2>NOMBRE DEL ALUMNO: DIEGO EFREN ELIZALDE BARBOZA</h2>
+            <h3> GESTION DEL PROCESO DE SOFTWARE</h3>
+            <h4>PARCIAL 1</h4>
           </div>
           <h6 className="category category-absolute">
             Designed by{" "}
